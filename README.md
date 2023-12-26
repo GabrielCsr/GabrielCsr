@@ -1,5 +1,5 @@
 - 👋 Ola, meu nome é Gabriel Teixeira
-- 👀 Estou interessado em vagas de Engenheiro de software
-- 🌱 Atualmente estou desenvolvendo minhas habilidades em Delphi, Python, HTML, CSS e JAVASCRIPT
+- 👀 Estou interessado em vagas de Desenvolvedor Junior
+- 🌱 Atualmente estou cursando Engenharia de software
 - 💞️ Procuro colaborar no ensino e desenvolvimento de soluções em Delphi/Python
 - 📫 Como entrar em contato gabrielcsrdeveloper@gmail.com
